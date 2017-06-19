@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RadioHire.frmAddInv" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAABEAAACAAAACAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmAddInv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.frmHireRadio" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABAAAACAAIBAQgACAAABCAAAIgAAAEIAAgABAIAA=</HashCode>
+      <FileName>frmHireRadio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.FrmRadioInventory" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAgAAAGIAgACAAAAgAAAAIAAAAAAAAQ=</HashCode>
+      <FileName>frmInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.frmMain" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAAACAAgAAAAACEAAACAAgAAAAARABJAAAAgAA=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.frmOrder" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAABAAAAAAAA=</HashCode>
+      <FileName>frmOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.frmRadio" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFIEAACAACAGAAACAAEgCAAAAgMAAAIAAgAAQZAM=</HashCode>
+      <FileName>frmRadio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.frmReservation" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAACAAAACAAAIgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.frmSaleRadio" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABAAAACAAIBAAgACAAABCAAAIgAAAEMAAgABAIAA=</HashCode>
+      <FileName>frmSaleRadio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.Properties.Resources" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioHire.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
